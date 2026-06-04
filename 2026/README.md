@@ -7,7 +7,6 @@
 
 This is a **public repository** for the Computer Vision course final project, containing 9 comprehensive sub-projects covering fundamental and advanced topics in computer vision.
 
-<<<<<<< HEAD
 <style>
   .deadline {
     font-weight: bold;
@@ -16,9 +15,6 @@ This is a **public repository** for the Computer Vision course final project, co
   }
 </style>
 <span class="deadline">Submission Deadline: 12:00pm UTC+8, June 19,2026</span>
-=======
-<mark>Submission Deadline:  June 19th, 2026</mark>
->>>>>>> 07596b7712cf5452e8e8d7c70a6bac564e7f62c8
 
 ## 🎯 Project Goals
 
@@ -68,11 +64,7 @@ Each of the 9 sub-projects must include the following components:
    - <mark>Do not put all datasets into the repository.</mark>
 
 ### 4. **Demo** 
-<<<<<<< HEAD
    - Provide a simple inference example in a Jupyter notebook that demonstrates and elaborates on the core functions of your project.
-=======
-   - A brief video of training, inference, and evaluation on a dataset
->>>>>>> 07596b7712cf5452e8e8d7c70a6bac564e7f62c8
 
 ## 📝 Sub-Project Structure Template
 
@@ -95,7 +87,6 @@ project_XX/
 └── references.md          # Citation and attribution (if applicable)
 ```
 
-<<<<<<< HEAD
 ## ✅ Submission Score Checklist
 
 - [ ] Project README: Clear structure, complete installation & running instructions, rich examples (8 pts)
@@ -106,19 +97,6 @@ project_XX/
 - [ ] Technical Quality & Depth: Method justification, implementation quality, understanding of key code, simple ablation/comparative experiments (20 pts)
 - [ ] Conclusion & Future Work: Genuine insights, thoughtful future work (10 pts)
 - [ ] Academic Integrity: Proper citation of third-party code (5 pts)
-=======
-## ✅ Submission Checklist
-
-- [ ] Project README completed with all required sections, including clear installation and running instructions.
-- [ ] Well-organized and commented source code.
-- [ ] All dependencies documented in `requirements.txt` and can be successfully installed.
-- [ ] Third-party code properly cited.
-- [ ] Dataset link provided and testing examples included.
-- [ ] Pre-trained model can be properly downloaded and loaded.
-- [ ] Demo / inference script runs successfully and produces reasonable output.
-- [ ] Results with progressive visualizations and charts.
-- [ ] Conclusion with insights and future work.
->>>>>>> 07596b7712cf5452e8e8d7c70a6bac564e7f62c8
 
 ## 📊 Expected Deliverables Timeline
 
