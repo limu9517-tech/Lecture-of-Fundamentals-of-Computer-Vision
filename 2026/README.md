@@ -7,7 +7,7 @@
 
 This is a **public repository** for the Computer Vision course final project, containing 9 comprehensive sub-projects covering fundamental and advanced topics in computer vision.
 
-<span style="color: red; font-weight: bold; font-size: 1.2em;">Submission Deadline: 12:00pm UTC+8, June 19, 2026</span>
+![Submission Deadline](https://github.com/yx-seu/Lecture-of-Fundamentals-of-Computer-Vision/2026/images.png?raw=true)
 
 ## 🎯 Project Goals
 
@@ -57,7 +57,7 @@ Each of the 9 sub-projects must include the following components:
    - <mark>Do not put all datasets into the repository.</mark>
 
 ### 4. **Demo** 
-   - Provide a simple inference example in a Jupyter notebook that demonstrates and elaborates on the core functions of your project.
+   - <mark>**Provide a simple inference example in a Jupyter notebook that demonstrates and elaborates on the core functions of your project.**</mark>
 
 ## 📝 Sub-Project Structure Template
 
